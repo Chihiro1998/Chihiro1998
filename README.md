@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chihiro1998)](https://github.com/Chihiro1998/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chihiro1998)
 
