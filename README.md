@@ -46,13 +46,13 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
----
+
 
 ## <span style="color:#fea6b6;">📊 GitHub Stats</span>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chihiro1998&layout=compact&theme=dracula" height="200px" />
 </p>
 
----
+
 
 
