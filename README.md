@@ -13,7 +13,7 @@
       <ul>
         <li>🔭 <strong><span style="color:#fed5d2;">Working on</span></strong> <a href="https://github.com/Chihiro1998/HomeRentalsApplication">HomeRental Application</a></li>
         <li>🌱 <strong><span style="color:#fed5d2;">Currently learning</span></strong>: Django, Microservices, Distributed Systems</li>
-        <li>👨‍💻 <a href="https://yuchenportfolio-675f00ecafdf.herokuapp.com/">My E-Portfolio</a></li>
+        <li>👨‍💻 <strong><a href="https://yuchenportfolio-675f00ecafdf.herokuapp.com/">My E-Portfolio</a></strong>strong></li>
         <li>📫 <strong><span style="color:#fed5d2;">Contact</span></strong>: kuangyuchen0301@gmail.com</li>
       </ul>
     </td>
