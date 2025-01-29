@@ -43,7 +43,7 @@
 
 ## <span style="color:#fea6b6;">📊 GitHub Stats</span>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chihiro1998&show_icons=true&theme=pink" height="200px" />
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Chihiro1998)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chihiro1998&layout=compact&theme=dracula" height="200px" />
 </p>
 
