@@ -44,7 +44,7 @@
 ## <span style="color:#fea6b6;">📊 GitHub Stats</span>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chihiro1998&show_icons=true&theme=pink" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chihiro1998&layout=compact&theme=pink" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chihiro1998&layout=compact&theme=dracula" height="180px" />
 </p>
 
 ---
