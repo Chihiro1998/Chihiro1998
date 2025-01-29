@@ -49,6 +49,8 @@
 
 
 ## <span style="color:#fea6b6;">📊 GitHub Stats</span>
+![Yuchen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chihiro1998&show_icons=true&theme=white&title_color=FEA6B6&text_color=FEA6B6&icon_color=FEA6B6&border_color=FEA6B6&hide_border=false)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chihiro1998&layout=compact&theme=dracula" height="200px" />
 </p>
