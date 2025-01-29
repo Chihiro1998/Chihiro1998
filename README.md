@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Yuchen(Olivia) Kwong</h1>
+![b5819347b17f735f86b48c23e0cac447](https://github.com/user-attachments/assets/8d8728da-19cb-41b7-b9e1-fdaa57e9a507)
 
 <h3 align="left">A passionate full stack developer and a ex-designer</h3>
 
 - 🔭 I’m currently working on [HomeRental Application](https://github.com/Chihiro1998/HomeRentalsApplication)
 
 - 🌱 I’m currently learning **Django,MicroService,Distributed System**
-![b5819347b17f735f86b48c23e0cac447](https://github.com/user-attachments/assets/8d8728da-19cb-41b7-b9e1-fdaa57e9a507)
 
 - 👨‍💻 All of my projects are available at [https://yuchenportfolio-675f00ecafdf.herokuapp.com/](https://yuchenportfolio-675f00ecafdf.herokuapp.com/)
 
