@@ -6,10 +6,8 @@
       <img src="https://github.com/user-attachments/assets/90d6c188-dca8-4333-a3d4-0fe77f8258be" width="100%" />
     </td>
     <td width="60%" align="left">
-      <h1 style="color:#fea6b6>Hello ! I am Olivia</h1>
-      <h1 align="left">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FEA6B6&width=600&height=80&lines=Hi+👋,+I'm+Yuchen+(Olivia)+Kwong;Full-Stack+Developer;Ex-Designer+&+PM" />
-      </h1>
+      <h1 style="color:#fea6b6;">Hello ! I am Olivia</h1>
+      
       <p>Hello I am Yuchen Kuang, I am </p>
       <p><strong><span style="color:#fed5d2;">💻👧🏻 A passionate full-stack developer & ex-designer & ex-product manager</span></strong></p>
       <ul>
