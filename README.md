@@ -48,8 +48,12 @@
 
 
 
-## <span style="color:#fea6b6;">📊 GitHub Stats</span>
-![Yuchen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chihiro1998&show_icons=true&theme=white&title_color=FEA6B6&text_color=606060&icon_color=FEA6B6&border_color=B0A8B9&hide_border=false)
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chihiro1998&show_icons=true&theme=white&title_color=FEA6B6&text_color=606060&icon_color=FEA6B6&border_color=B0A8B9&bg_color=F9F1F0,E8E8E8" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chihiro1998&layout=compact&theme=white&title_color=FEA6B6&text_color=606060&border_color=B0A8B9&bg_color=F9F1F0,E8E8E8" height="180px"/>
+</p>
+
 
 
 <p align="center">
