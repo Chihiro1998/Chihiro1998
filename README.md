@@ -16,11 +16,9 @@
 ### 🌱 **Currently Learning**
 - **Django**, **Microservices**, **Distributed Systems**
 
-### 👨‍💻 **Portfolio**
-- [Check out my projects](https://yuchenportfolio-675f00ecafdf.herokuapp.com/)
+### 👨‍💻 **Portfolio** :- [Check out my projects](https://yuchenportfolio-675f00ecafdf.herokuapp.com/)
 
-### 📫 **Contact**
-- 📧 Email: **kuangyuchen0301@gmail.com**
+### 📫 **Contact** :- 📧 Email: **kuangyuchen0301@gmail.com**
 
 ---
 
