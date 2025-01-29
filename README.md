@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yuchen(Olivia) Kwong</h1>
-<h3 align="center">A passionate full stack developer and a ex-designer</h3>
+<h1 align="left">Hi 👋, I'm Yuchen(Olivia) Kwong</h1>
+<h3 align="left">A passionate full stack developer and a ex-designer</h3>
 
 - 🔭 I’m currently working on [HomeRental Application](https://github.com/Chihiro1998/HomeRentalsApplication)
 
