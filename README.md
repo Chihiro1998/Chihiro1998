@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello！ Welcome to;Second+line+of+text)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Second+line+of+text)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chihiro1998)](https://github.com/Chihiro1998/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chihiro1998)
 
