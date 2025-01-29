@@ -1,19 +1,20 @@
-<h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=false&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B,+I'm+Yuchen+(Olivia)+Kwong;Welcome+to+my+GitHub!" />
-</h1>
-
 <table>
   <tr>
-    <td width="40%">
+    <!-- 左侧部分 -->
+    <td width="40%" align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FED5D2&center=false&vCenter=true&width=500&lines=Hi+👋,+I'm+Yuchen+(Olivia)+Kwong;Welcome+to+my+GitHub!" />
+      <br>
       <img src="https://github.com/user-attachments/assets/90d6c188-dca8-4333-a3d4-0fe77f8258be" width="100%" />
     </td>
+    
+    <!-- 右侧部分 -->
     <td width="60%" align="left">
-      <p>💻 <strong>A passionate full-stack developer & ex-designer</strong></p>
+      <p><strong><span style="color:#fed5d2;">💻 A passionate full-stack developer & ex-designer</span></strong></p>
       <ul>
-        <li>🔭 Working on <a href="https://github.com/Chihiro1998/HomeRentalsApplication">HomeRental Application</a></li>
-        <li>🌱 Currently learning <strong>Django, Microservices, Distributed Systems</strong></li>
+        <li>🔭 <strong><span style="color:#fed5d2;">Working on</span></strong> <a href="https://github.com/Chihiro1998/HomeRentalsApplication">HomeRental Application</a></li>
+        <li>🌱 <strong><span style="color:#fed5d2;">Currently learning</span></strong>: Django, Microservices, Distributed Systems</li>
         <li>👨‍💻 <a href="https://yuchenportfolio-675f00ecafdf.herokuapp.com/">Check out my projects</a></li>
-        <li>📫 Contact: <strong>kuangyuchen0301@gmail.com</strong></li>
+        <li>📫 <strong><span style="color:#fed5d2;">Contact</span></strong>: kuangyuchen0301@gmail.com</li>
       </ul>
     </td>
   </tr>
