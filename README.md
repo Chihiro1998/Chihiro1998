@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B,+I'm+Yuchen+(Olivia)+Kwong;Welcome+to+my+GitHub!" />
 </h1>
 
-<p align="center">
+<p align="leftr">
   <img src="https://github.com/user-attachments/assets/90d6c188-dca8-4333-a3d4-0fe77f8258be" width="400" />
 </p>
 
-<h3 align="center">A passionate full-stack developer & ex-designer</h3>
+<h3 align="left">A passionate full-stack developer & ex-designer</h3>
 
 ---
 
@@ -33,7 +33,7 @@
 </p>
 
 ### 🛠️ **Tools & Platforms**
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -44,7 +44,7 @@
 ---
 
 ## 📊 **GitHub Stats**
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Chihiro1998&show_icons=true&theme=pink" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chihiro1998&layout=compact&theme=pink" height="180px" />
 </p>
@@ -52,7 +52,7 @@
 ---
 
 ## 🌐 **Connect with me**
-<p align="center">
+<p align="left">
   <a href="mailto:kuangyuchen0301@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
