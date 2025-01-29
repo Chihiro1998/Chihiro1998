@@ -27,8 +27,8 @@
 
 ---
 
-## <span style="color:#fea6b6;">🚀 Tech Stack</span>
-### <span style="color:#fea6b6;">💻 Languages & Frameworks</span>
+##  <span style="color:#fea6b6;">🚀 Tech Stack</span>
+###  <span style="color:#fea6b6;">💻 Languages & Frameworks</span>
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
