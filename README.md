@@ -56,10 +56,5 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chihiro1998&layout=compact&theme=dracula" height="200px" />
-</p>
-
-
 
 
