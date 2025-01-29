@@ -7,7 +7,7 @@
     </td>
     <td width="60%" align="left">
       <h1 align="left">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FED5D2&center=false&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B,+I'm+Yuchen+(Olivia)+Kwong" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FEA6B6&center=false&vCenter=true&width=500&lines=Hi+👋,+I'm+Yuchen+(Olivia)+Kwong" />
       </h1>
       <p><strong><span style="color:#fed5d2;">💻👧🏻 A passionate full-stack developer & ex-designer & ex-product manager</span></strong></p>
       <ul>
