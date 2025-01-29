@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Yuchen(Olivia) Kwong</h1>
-![b5819347b17f735f86b48c23e0cac447](https://github.com/user-attachments/assets/8d8728da-19cb-41b7-b9e1-fdaa57e9a507)
+
+![556fe5b7efb8608bd8d267fa11bd44cb](https://github.com/user-attachments/assets/90d6c188-dca8-4333-a3d4-0fe77f8258be)
 
 <h3 align="left">A passionate full stack developer and a ex-designer</h3>
 
