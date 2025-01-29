@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B,+I'm+Yuchen+(Olivia)+Kwong;Welcome+to+my+GitHub!" />
 </h1>
 
