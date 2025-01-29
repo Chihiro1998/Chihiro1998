@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Django,MicroService,Distributed System**
 
-- 👯 I’m looking to collaborate on **Advertisement System**
-
 - 👨‍💻 All of my projects are available at [https://yuchenportfolio-675f00ecafdf.herokuapp.com/](https://yuchenportfolio-675f00ecafdf.herokuapp.com/)
 
 - 📫 How to reach me **kuangyuchen0301@gmail.com**
@@ -37,5 +35,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chihiro1998&show_icons=true&locale=en&layout=compact" alt="chihiro1998" /></p>
 
-
+![Chihiro1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chihiro1998&show_icons=true&theme=dracula)
 
