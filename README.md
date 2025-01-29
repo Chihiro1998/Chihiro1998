@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chihiro1998&show_icons=true&locale=en" alt="chihiro1998" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chihiro1998&" alt="chihiro1998" /></p>
+
