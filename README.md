@@ -9,11 +9,11 @@
       <h1 align="left">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FED5D2&center=false&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B,+I'm+Yuchen+(Olivia)+Kwong;Welcome+to+my+GitHub!" />
       </h1>
-      <p><strong><span style="color:#fed5d2;">💻 A passionate full-stack developer & ex-designer & ex-product manager</span></strong></p>
+      <p><strong><span style="color:#fed5d2;">💻👧🏻 A passionate full-stack developer & ex-designer & ex-product manager</span></strong></p>
       <ul>
         <li>🔭 <strong><span style="color:#fed5d2;">Working on</span></strong> <a href="https://github.com/Chihiro1998/HomeRentalsApplication">HomeRental Application</a></li>
         <li>🌱 <strong><span style="color:#fed5d2;">Currently learning</span></strong>: Django, Microservices, Distributed Systems</li>
-        <li>👨‍💻 <strong><span style="color:#fed5d2;">My E-Portfolio</span><a href="https://yuchenportfolio-675f00ecafdf.herokuapp.com/">Check out my projects</a></li>
+        <li>👨‍💻 <a href="https://yuchenportfolio-675f00ecafdf.herokuapp.com/">My E-Portfolio</a></li>
         <li>📫 <strong><span style="color:#fed5d2;">Contact</span></strong>: kuangyuchen0301@gmail.com</li>
       </ul>
     </td>
