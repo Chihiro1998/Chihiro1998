@@ -3,7 +3,9 @@
 <table>
   <tr>
     <td width="40%">
-      <img src="https://github.com/user-attachments/assets/90d6c188-dca8-4333-a3d4-0fe77f8258be" width="100%" />
+
+
+      <img src="https://github.com/user-attachments/assets/9ac7e79b-0a3c-4ba7-9b4a-7cb88c067688" width="100%" />
     </td>
     <td width="60%" align="left">
       <h1 style="color:#fea6b6;">Hello ! I am Olivia</h1>
