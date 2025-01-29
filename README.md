@@ -37,6 +37,13 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-FF69B4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chihiro1998&show_icons=true&theme=white&title_color=FEA6B6&text_color=606060&icon_color=FEA6B6&border_color=B0A8B9&bg_color=F9F1F0,E8E8E8" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chihiro1998&layout=compact&theme=white&title_color=FEA6B6&text_color=606060&border_color=B0A8B9&bg_color=F9F1F0,E8E8E8" height="180px"/>
+</p>
+
+
 ### <span style="color:#fea6b6;">🛠️ Tools & Platforms</span>
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -46,13 +53,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-
-
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chihiro1998&show_icons=true&theme=white&title_color=FEA6B6&text_color=606060&icon_color=FEA6B6&border_color=B0A8B9&bg_color=F9F1F0,E8E8E8" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chihiro1998&layout=compact&theme=white&title_color=FEA6B6&text_color=606060&border_color=B0A8B9&bg_color=F9F1F0,E8E8E8" height="180px"/>
-</p>
 
 
 
