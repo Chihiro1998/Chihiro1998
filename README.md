@@ -6,24 +6,27 @@
     <td width="60%" align="left">
       <h1 align="left">👋 Hi! There</h1>
       <p align="left">
-        I started my career as a **designer**, but my passion for problem-solving and innovation led me to **transition into full-stack development**. Now, I'm blending creativity with logic to build **scalable applications** and **beautiful user experiences**.
+        I started my career as a <strong>designer</strong>, but my passion for problem-solving and innovation led me to <strong>transition into full-stack development</strong>. Now, I'm blending creativity with logic to build <strong>scalable applications</strong> and <strong>beautiful user experiences</strong>. <br><br>
+        I thrive at the intersection of **design & technology**, where user-centric experiences meet powerful backend architectures. Constantly exploring new **frameworks, databases, and cloud technologies**, I aim to develop **robust & elegant solutions**.
       </p>
       <ul>
         <li>🔭 <strong>Currently working on:</strong> <a href="https://github.com/Chihiro1998/HomeRentalsApplication">HomeRental Application</a></li>
         <li>🌱 <strong>Currently learning:</strong> Django, Microservices, Distributed Systems</li>
         <li>👨‍💻 <strong><a href="https://yuchenportfolio-675f00ecafdf.herokuapp.com/">My E-Portfolio</a></strong></li>
-        <li>📫 <strong>Contact:<p align="left">
-        <a href="mailto:kuangyuchen0301@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-        <a href="https://www.linkedin.com/in/your-linkedin">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-      </p></strong></li>
+        <li>📫 <strong>Contact:</strong></li>
+        <p align="left">
+          <a href="mailto:kuangyuchen0301@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+          </a>
+          <a href="https://www.linkedin.com/in/your-linkedin">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+          </a>
+        </p>
       </ul>
     </td>
   </tr>
 </table>
+
 
 ---
 
