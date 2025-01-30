@@ -5,7 +5,7 @@
     </td>
     <td width="60%" align="left">
       <h1 align="left">
-Hello
+👋Hi！There
 </h1>
       <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&width=600&height=80&lines=Hi+👋,+I'm+Yuchen+(Olivia)+Kwong;Full-Stack+Developer;Ex-Designer+&+PM" /></p>
       <ul>
