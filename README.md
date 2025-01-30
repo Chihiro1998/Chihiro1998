@@ -4,12 +4,11 @@
       <img src="https://github.com/user-attachments/assets/90d6c188-dca8-4333-a3d4-0fe77f8258be" width="100%" />
     </td>
     <td width="60%" align="left">
-      <h1 align="left">👋 Hi! There</h1>
+      <h1 align="left">👋 Hi! There </h1>
       <p align="left">
-
-🚀 **A Designer turned Full-Stack Developer**  
-🎨 **Once a designer, now a passionate coder**  
-🛠️ **Turning ideas into reality, one line of code at a time**
+        
+        
+  ## 🎭 **Who Am I?**
         I started my career as a designer and later grew into a programmer. I hope to combine beauty and technology to design and develop user-friendly and cool applications. 😀
       </p>
       <ul>
