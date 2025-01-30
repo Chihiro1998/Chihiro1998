@@ -32,9 +32,9 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chihiro1998&show_icons=true&theme=white&title_color=ff6e96&text_color=606060&icon_color=ff6e96&border_color=a7d2ec&bg_color=E8E8E8,fdd1ce&hide_border=false" width="32%"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chihiro1998&layout=compact&theme=white&title_color=ff6e96&text_color=606060&border_color=a7d2ec&bg_color=E8E8E8,fdd1ce&hide_border=false" width="32%"/>
-  <img src="https://streak-stats.demolab.com/?user=Chihiro1998&theme=white&fire=ff6e96&ring=ff6e96&currStreakNum=606060&sideLabels=ff6e96&dates=606060&border_color=a7d2ec&stroke=ff6e96&background=E8E8E8,fdd1ce&hide_border=false" width="32%"/>
+  <img src="https://streak-stats.demolab.com/?user=Chihiro1998&theme=white&fire=ff6e96&ring=ff6e96&currStreakNum=606060&sideLabels=ff6e96&dates=606060&border_color=a7d2ec&stroke=ff6e96&background=E8E8E8,fdd1ce&hide_border=false" width="64%"/>
 </p>
 
 
