@@ -6,8 +6,8 @@
     <td width="60%" align="left">
       <h1 align="left">👋 Hi! There</h1>
       <p align="left">
-        <li> 🚀 <strong>A Designer turned Full-Stack Developer</strong></li>
-        
+
+🚀 **A Designer turned Full-Stack Developer**  
 🎨 **Once a designer, now a passionate coder**  
 🛠️ **Turning ideas into reality, one line of code at a time**
         I started my career as a designer and later grew into a programmer. I hope to combine beauty and technology to design and develop user-friendly and cool applications. 😀
