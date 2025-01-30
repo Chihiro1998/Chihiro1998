@@ -25,10 +25,11 @@
   </tr>
 </table>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chihiro1998&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chihiro1998&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chihiro1998&layout=compact&theme=white&title_color=ff6e96&text_color=606060&border_color=a7d2ec&bg_color=E8E8E8,fdd1ce&hide_border=false" width="40%" height="150px"/>
+  <img src="https://streak-stats.demolab.com/?user=Chihiro1998&theme=white&fire=ff6e96&ring=ff6e96&currStreakNum=606060&sideLabels=ff6e96&dates=606060&border_color=a7d2ec&stroke=ff6e96&background=E8E8E8,fdd1ce&hide_border=false" width="58%" height="150px"/>
+</p>
 
 
 ##  <span style="color:#fea6b6;">🚀 Tech Stack</span>
