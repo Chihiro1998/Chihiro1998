@@ -6,7 +6,7 @@
     <td width="60%" align="left">
       <h1 align="left">👋 Hi! There</h1>
       <p align="left">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&width=600&height=80&lines=Hi+👋,+I'm+Yuchen+(Olivia)+Kwong;Full-Stack+Developer;Ex-Designer+&+PM" />
+        I started my career as a **designer**, but my passion for problem-solving and innovation led me to **transition into full-stack development**. Now, I'm blending creativity with logic to build **scalable applications** and **beautiful user experiences**.
       </p>
       <ul>
         <li>🔭 <strong>Currently working on:</strong> <a href="https://github.com/Chihiro1998/HomeRentalsApplication">HomeRental Application</a></li>
