@@ -4,26 +4,28 @@
       <img src="https://github.com/user-attachments/assets/90d6c188-dca8-4333-a3d4-0fe77f8258be" width="100%" />
     </td>
     <td width="60%" align="left">
-      <h1 align="left">
-👋Hi！There
-</h1>
-      <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&width=600&height=80&lines=Hi+👋,+I'm+Yuchen+(Olivia)+Kwong;Full-Stack+Developer;Ex-Designer+&+PM" /></p>
+      <h1 align="left">👋 Hi! There</h1>
+      <p align="left">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&width=600&height=80&lines=Hi+👋,+I'm+Yuchen+(Olivia)+Kwong;Full-Stack+Developer;Ex-Designer+&+PM" />
+      </p>
       <ul>
-        <li>🔭 <strong><span style="color:#fed5d2;">Currently working on</span></strong> <a href="https://github.com/Chihiro1998/HomeRentalsApplication">HomeRental Application</a></li>
-        <li>🌱 <strong><span style="color:#fed5d2;">Currently learning</span></strong>: Django, Microservices, Distributed Systems</li>
+        <li>🔭 <strong>Currently working on:</strong> <a href="https://github.com/Chihiro1998/HomeRentalsApplication">HomeRental Application</a></li>
+        <li>🌱 <strong>Currently learning:</strong> Django, Microservices, Distributed Systems</li>
         <li>👨‍💻 <strong><a href="https://yuchenportfolio-675f00ecafdf.herokuapp.com/">My E-Portfolio</a></strong></li>
-        <li>📫 <strong><span style="color:#fed5d2;">Contact</span></strong><p align="left">
-  <a href="mailto:kuangyuchen0301@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p></li>
+        <li>📫 <strong>Contact:</strong></li>
       </ul>
+      <p align="left">
+        <a href="mailto:kuangyuchen0301@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+        <a href="https://www.linkedin.com/in/your-linkedin">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
+
 
 ---
 
