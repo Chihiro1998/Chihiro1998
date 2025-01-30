@@ -24,6 +24,7 @@
     </td>
   </tr>
 </table>
+---
 
 ## 📊 **My Stats**
 <p align="left">
@@ -31,7 +32,7 @@
   <img src="https://streak-stats.demolab.com/?user=Chihiro1998&theme=white&fire=ff6e96&ring=ff6e96&currStreakNum=606060&sideLabels=ff6e96&dates=606060&border_color=a7d2ec&stroke=ff6e96&background=E8E8E8,fdd1ce&hide_border=false" width="58%" height="200px"/>
 </p>
 
-
+---
 ##  <span style="color:#fea6b6;">🚀 Tech Stack</span>
 ### 🖥️ **Languages & Frameworks**
 <p align="left">
