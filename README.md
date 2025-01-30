@@ -78,6 +78,8 @@
 </p>
 
 
+💡 _This is my **backup space**—just in case I break things!_  
+🌱 _Still learning, still improving, and always **excited to build**!_  
 
 
 
