@@ -6,8 +6,7 @@
     <td width="60%" align="left">
       <h1 align="left">👋 Hi! There</h1>
       <p align="left">
-        I started my career as a <strong>designer</strong>, but my passion for problem-solving and innovation led me to <strong>transition into full-stack development</strong>. Now, I'm blending creativity with logic to build <strong>scalable applications</strong> and <strong>beautiful user experiences</strong>. <br><br>
-        I thrive at the intersection of **design & technology**, where user-centric experiences meet powerful backend architectures. Constantly exploring new **frameworks, databases, and cloud technologies**, I aim to develop **robust & elegant solutions**.
+        I started my career as a designer and later grew into a programmer. I hope to combine beauty and technology to design and develop user-friendly and cool applications. 😀
       </p>
       <ul>
         <li>🔭 <strong>Currently working on:</strong> <a href="https://github.com/Chihiro1998/HomeRentalsApplication">HomeRental Application</a></li>
