@@ -13,8 +13,6 @@
         <li>🔭 <strong>Currently working on:</strong>I'm working on something cool! Most of them are Web Develop projects</li>
         <li>🌱 <strong>Currently learning:</strong> Django, Microservices, Distributed Systems</li>
         <li>💬 Ask me about anything related to <strong>JavaScript/TypeScript</strong> or <strong>React</strong> </li>
-        <li>👨‍💻 <strong><a href="https://yuchenportfolio-675f00ecafdf.herokuapp.com/">My E-Portfolio</a></strong></li>
-        <li>📫 <strong>Contact:</strong>kuangyuchen0301@gmail.com</li>
         <li>⚡️ <strong>Fun fact:</strong>Want to raise a cat🐱 after getting a full-time job</li>
       </ul>
     </td>
