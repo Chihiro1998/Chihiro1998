@@ -4,13 +4,13 @@
       <img src="https://github.com/user-attachments/assets/90d6c188-dca8-4333-a3d4-0fe77f8258be" width="100%" />
     </td>
     <td width="60%" align="left">
-      <h1 align="left">👋 Hi! There </h1>
+      <h1 align="left">👋 🎀 Hi! There </h1>
       <h3>🎭 Who Am I?</h3>
       <p align="left">
         I started my career as a designer and later grew into a programmer. I hope to combine beauty and technology to design and develop user-friendly and cool applications. I am seeking co-op/intern now, feel free to contact me! 😀
       </p>
       <ul>
-        <li>🔭 <strong>Currently working on:</strong> Most of them are Web Develop projects</li>
+        <li>🧸 <strong>Currently working on:</strong> Most of them are Web Develop projects</li>
         <li>🌱 <strong>Currently learning:</strong> Django, Microservices, Distributed Systems</li>
         <li>💬 Ask me about anything related to <strong>JavaScript/TypeScript</strong> or <strong>React</strong> </li>
         <li>⚡️ <strong>Fun fact:</strong>Want to raise a cat🐱 after getting a full-time job</li>
