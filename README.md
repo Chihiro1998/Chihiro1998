@@ -7,21 +7,15 @@
       <h1 align="left">👋 Hi! There </h1>
       <h3>🎭 Who Am I?</h3>
       <p align="left">
-        I started my career as a designer and later grew into a programmer. I hope to combine beauty and technology to design and develop user-friendly and cool applications. 😀
+        I started my career as a designer and later grew into a programmer. I hope to combine beauty and technology to design and develop user-friendly and cool applications. I am seeking co-op/intern now, feel free to contact me! 😀
       </p>
       <ul>
-        <li>🔭 <strong>Currently working on:</strong> <a href="https://github.com/Chihiro1998/HomeRentalsApplication">HomeRental Application</a></li>
+        <li>🔭 <strong>Currently working on:</strong>I'm working on something cool! Most of them are Web Develop projects</li>
         <li>🌱 <strong>Currently learning:</strong> Django, Microservices, Distributed Systems</li>
+        <li>💬 Ask me about anything related to <strong>JavaScript/TypeScript</strong> or <strong>React</strong> </li>
         <li>👨‍💻 <strong><a href="https://yuchenportfolio-675f00ecafdf.herokuapp.com/">My E-Portfolio</a></strong></li>
-        <li>📫 <strong>Contact:</strong></li>
-        <p align="left">
-          <a href="mailto:kuangyuchen0301@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-          </a>
-          <a href="https://www.linkedin.com/in/your-linkedin">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-          </a>
-        </p>
+        <li>📫 <strong>Contact:</strong>kuangyuchen0301@gmail.com</li>
+        <li>⚡️ <strong>Fun fact:</strong>Want to raise a cat🐱 after getting a full-time job</li>
       </ul>
     </td>
   </tr>
