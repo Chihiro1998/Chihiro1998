@@ -33,8 +33,12 @@
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chihiro1998&show_icons=true&theme=white&title_color=FEA6B6&text_color=606060&icon_color=FEA6B6&border_color=B0A8B9&bg_color=F9F1F0,E8E8E8" height="180px"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chihiro1998&layout=compact&theme=white&title_color=FEA6B6&text_color=606060&border_color=B0A8B9&bg_color=F9F1F0,E8E8E8" height="180px"/>
+  
+  <img src="https://streak-stats.demolab.com/?user=Chihiro1998&theme=white&fire=FEA6B6&ring=FEA6B6&currStreakNum=606060&sideLabels=FEA6B6&dates=606060&border_color=B0A8B9&stroke=FEA6B6&background=F9F1F0,E8E8E8" height="180px"/>
 </p>
+
 
 ##  <span style="color:#fea6b6;">🚀 Tech Stack</span>
 ###  <span style="color:#fea6b6;">💻 Languages & Frameworks</span>
