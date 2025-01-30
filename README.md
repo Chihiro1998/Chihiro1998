@@ -12,16 +12,15 @@
         <li>🔭 <strong>Currently working on:</strong> <a href="https://github.com/Chihiro1998/HomeRentalsApplication">HomeRental Application</a></li>
         <li>🌱 <strong>Currently learning:</strong> Django, Microservices, Distributed Systems</li>
         <li>👨‍💻 <strong><a href="https://yuchenportfolio-675f00ecafdf.herokuapp.com/">My E-Portfolio</a></strong></li>
-        <li>📫 <strong>Contact:</strong></li>
-      </ul>
-      <p align="left">
+        <li>📫 <strong>Contact:<p align="left">
         <a href="mailto:kuangyuchen0301@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
         </a>
         <a href="https://www.linkedin.com/in/your-linkedin">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
-      </p>
+      </p></strong></li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -32,7 +31,7 @@
 
 ## 📊 **GitHub Stats**
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chihiro1998&layout=compact&theme=white&title_color=ff6e96&text_color=606060&border_color=a7d2ec&bg_color=E8E8E8,fdd1ce&hide_border=false" width="30%" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chihiro1998&layout=compact&theme=white&title_color=ff6e96&text_color=606060&border_color=a7d2ec&bg_color=E8E8E8,fdd1ce&hide_border=false" width="40%" height="200px"/>
   <img src="https://streak-stats.demolab.com/?user=Chihiro1998&theme=white&fire=ff6e96&ring=ff6e96&currStreakNum=606060&sideLabels=ff6e96&dates=606060&border_color=a7d2ec&stroke=ff6e96&background=E8E8E8,fdd1ce&hide_border=false" width="58%" height="200px"/>
 </p>
 
