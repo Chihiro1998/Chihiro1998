@@ -54,7 +54,7 @@
 ## 📊 **My Stats**
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chihiro1998&layout=compact&theme=white&title_color=ff6e96&text_color=606060&border_color=a7d2ec&bg_color=E8E8E8,fdd1ce&hide_border=false" width="40%" height="200px"/>
-
+    <img src="https://streak-stats.demolab.com/?user=Chihiro1998&theme=white&fire=ff6e96&ring=ff6e96&currStreakNum=606060&sideLabels=ff6e96&dates=606060&border_color=a7d2ec&stroke=ff6e96&hide_border=false" width="54%" height="200px"/>
 
 </p>
 
